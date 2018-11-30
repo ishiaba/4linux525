@@ -1,0 +1,4 @@
+---
+
+jenkinsdir: /var/lib/jenkins/workspace
+dockerdir: /var/ib/docker/volumes
